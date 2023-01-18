@@ -1,1 +1,2 @@
-hola esto es el ejercicio 1s
+hola esto es el ejercicio1
+que tal estas
